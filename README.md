@@ -5,9 +5,9 @@
 
 ## Goal
 
-Rmarkdown is a pretty awesome tool for literature programming.
+Keras is a pretty awesome tool for deep learning.
 
-This repo aims for collecting awesome Rmarkdown resources togather.
+This repo aims for collecting awesome Keras resources togather.
 
 ## How to Contribute
 
