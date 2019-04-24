@@ -27,6 +27,10 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 + [KerasModelCreator: Visually design Keras models for R language.](https://github.com/jcrodriguez1989/KerasModelCreator)
 
+### Model Training
+
++ [tfruns: Track, Visualize, and Manage TensorFlow Training Runs](https://github.com/rstudio/tfruns)
+
 ### Model Deploy
 
 + [tfdeploy: Deploy Tensorflow Models from R ](https://github.com/rstudio/tfdeploy)
