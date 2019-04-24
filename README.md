@@ -1,4 +1,3 @@
-![](https://tensorflow.rstudio.com/tfestimators/articles/images/tensorflow-architecture.png)
 
 # Awesome-Keras
 
@@ -48,9 +47,12 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 ![](https://raw.githubusercontent.com/raghakot/keras-vis/master/images/conv_vis/cover.jpg?raw=true)
 ![](https://cloud.githubusercontent.com/assets/5866348/20253975/f3d56f14-a9e4-11e6-9693-9873a18df5d3.gif)
 
-### Estimation
+### Estimator
 
 + [tfestimators: R interface to TensorFlow Estimators](https://github.com/rstudio/tfestimators)
+
+![](https://tensorflow.rstudio.com/tfestimators/articles/images/tensorflow-architecture.png)
+
 
 ## Keras Blogs
 
