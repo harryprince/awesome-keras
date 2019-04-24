@@ -30,6 +30,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 ### Model Deploy
 
 + [tfdeploy: Deploy Tensorflow Models from R ](https://github.com/rstudio/tfdeploy)
+![](https://tensorflow.rstudio.com/tools/tfdeploy/articles/images/swagger.png)
 
 ### Bayes
 
