@@ -42,6 +42,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 + [Auto-Keras: Tuning-free deep learning from R](https://github.com/jcrodriguez1989/tf_blog_autokeras/blob/master/autokeras.Rmd)
 + [Tensorflow Blog](https://github.com/rstudio/tensorflow-blog)
++ [An Introduction to Greta](https://rviews.rstudio.com/2018/04/23/on-first-meeting-greta/)
 
 ## Keras Talks
 
