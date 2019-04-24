@@ -69,6 +69,10 @@ This repo aims for collecting awesome Keras resources togather.
 
 + [sits: Satellite image time series in R](https://github.com/e-sensing/sits)
 
+### Bayes
+
++ [tfprobability: R interface to TensorFlow Probability](https://github.com/rstudio/tfprobability)
+
 ## Keras Blogs
 
 + [Auto-Keras: Tuning-free deep learning from R](https://github.com/jcrodriguez1989/tf_blog_autokeras/blob/master/autokeras.Rmd)
