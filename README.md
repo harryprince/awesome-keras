@@ -22,10 +22,21 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 + [KerasModelCreator: Visually design Keras models for R language.](https://github.com/jcrodriguez1989/KerasModelCreator)
 
+### Bayes
+
++ [greta: simple and scalable statistical modelling in R](https://github.com/greta-dev/greta)
+
 ### Auto ML
 
 + [autokeras: R interface to Auto-Keras](https://github.com/jcrodriguez1989/autokeras)
 
+### Model Visualization
+
++ [keras-vis: Neural network visualization toolkit for keras](https://github.com/raghakot/keras-vis)
++ [quiver: Interactive convnet features visualization for Keras](https://github.com/keplr-io/quiver)
+
+![](https://raw.githubusercontent.com/raghakot/keras-vis/master/images/conv_vis/cover.jpg?raw=true)
+![](https://cloud.githubusercontent.com/assets/5866348/20253975/f3d56f14-a9e4-11e6-9693-9873a18df5d3.gif)
 
 ## Keras Blogs
 
