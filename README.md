@@ -30,6 +30,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 ### Model Training
 
 + [tfruns: Track, Visualize, and Manage TensorFlow Training Runs](https://github.com/rstudio/tfruns)
+![](https://tensorflow.rstudio.com/tools/tfruns/articles/images/ls_runs_compare.png)
 
 ### Model Deploy
 
@@ -43,6 +44,10 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 ### Auto ML
 
 + [autokeras: R interface to Auto-Keras](https://github.com/jcrodriguez1989/autokeras)
+
+### Cloud ML
+
++ [cloudml: R interface to Google Cloud Machine Learning Engine](https://github.com/rstudio/cloudml)
 
 ### Model Visualization
 
