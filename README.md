@@ -16,7 +16,7 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 ## Keras Cheatsheet
 
 + [Keras Cheatsheet-en](https://github.com/harryprince/cheatsheets/blob/master/keras.pdf)
-+ [Keras Cheatsheet-cn](https://github.com/harryprince/cheatsheets/raw/master/translations/chinese/keras-cheatsheet_zh_CN.pdf)
++ [Keras Cheatsheet-cn: Keras 与深度学习备忘单](https://github.com/harryprince/cheatsheets/raw/master/translations/chinese/keras-cheatsheet_zh_CN.pdf)
 
 ### Model Creator
 
