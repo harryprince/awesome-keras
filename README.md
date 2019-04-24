@@ -1,3 +1,5 @@
+![](https://tensorflow.rstudio.com/tfestimators/articles/images/tensorflow-architecture.png)
+
 # Awesome-Keras
 
 ![](https://camo.githubusercontent.com/1997c7e760b163a61aba3a2c98f21be8c524be29/68747470733a2f2f617765736f6d652e72652f62616467652e737667)
@@ -18,9 +20,17 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 + [Keras Cheatsheet-en](https://github.com/harryprince/cheatsheets/blob/master/keras.pdf)
 + [Keras Cheatsheet-cn: Keras 与深度学习备忘单](https://github.com/harryprince/cheatsheets/raw/master/translations/chinese/keras-cheatsheet_zh_CN.pdf)
 
+### Data Pipeline
+
++ [tfdatasets: R interface to TensorFlow Datasets API](https://github.com/rstudio/tfdatasets)
+
 ### Model Creator
 
 + [KerasModelCreator: Visually design Keras models for R language.](https://github.com/jcrodriguez1989/KerasModelCreator)
+
+### Model Deploy
+
++ [tfdeploy: Deploy Tensorflow Models from R ](https://github.com/rstudio/tfdeploy)
 
 ### Bayes
 
@@ -37,6 +47,10 @@ This repo aims for collecting awesome Rmarkdown resources togather.
 
 ![](https://raw.githubusercontent.com/raghakot/keras-vis/master/images/conv_vis/cover.jpg?raw=true)
 ![](https://cloud.githubusercontent.com/assets/5866348/20253975/f3d56f14-a9e4-11e6-9693-9873a18df5d3.gif)
+
+### Estimation
+
++ [tfestimators: R interface to TensorFlow Estimators](https://github.com/rstudio/tfestimators)
 
 ## Keras Blogs
 
