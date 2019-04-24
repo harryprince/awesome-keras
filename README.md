@@ -40,6 +40,7 @@ This repo aims for collecting awesome Keras resources togather.
 ### Bayes
 
 + [greta: simple and scalable statistical modelling in R](https://github.com/greta-dev/greta)
++ [tfprobability: R interface to TensorFlow Probability](https://github.com/rstudio/tfprobability)
 
 ### Auto ML
 
@@ -68,10 +69,6 @@ This repo aims for collecting awesome Keras resources togather.
 ### Remote Sensing
 
 + [sits: Satellite image time series in R](https://github.com/e-sensing/sits)
-
-### Bayes
-
-+ [tfprobability: R interface to TensorFlow Probability](https://github.com/rstudio/tfprobability)
 
 ## Keras Blogs
 
