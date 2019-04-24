@@ -63,6 +63,11 @@ This repo aims for collecting awesome Keras resources togather.
 
 ![](https://tensorflow.rstudio.com/tfestimators/articles/images/tensorflow-architecture.png)
 
+## Applications
+
+### Remote Sensing
+
++ [sits: Satellite image time series in R](https://github.com/e-sensing/sits)
 
 ## Keras Blogs
 
