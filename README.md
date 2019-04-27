@@ -21,6 +21,7 @@ This repo aims for collecting awesome Keras resources togather.
 
 ### Data Pipeline
 
++ [sparktf: R interface to Spark TensorFlow Connector](https://github.com/rstudio/sparktf)
 + [tfdatasets: R interface to TensorFlow Datasets API](https://github.com/rstudio/tfdatasets)
 
 ### Model Creator
