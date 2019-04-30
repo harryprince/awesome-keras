@@ -19,6 +19,7 @@ This repo aims for collecting awesome Keras resources togather.
 + [Keras Cheatsheet-en](https://github.com/harryprince/cheatsheets/blob/master/keras.pdf)
 + [Keras Cheatsheet-cn: Keras 与深度学习备忘单](https://github.com/harryprince/cheatsheets/raw/master/translations/chinese/keras-cheatsheet_zh_CN.pdf)
 + [Python in RStudio Cheatsheet](https://media.licdn.com/dms/document/C4D1FAQG-Cqo_xexAhg/feedshare-document-pdf-analyzed/0?e=1556683200&v=beta&t=cPZjElGb8BpxN0lNIXI7rz_LlQtRc4mz8G4lZK9zrZ4)
++ [randomForestExplainer Cheatsheet](https://github.com/MI2DataLab/randomForestExplainer/raw/master/materials/cheatsheet.pdf)
 
 ### Data Pipeline
 
