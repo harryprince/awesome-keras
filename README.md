@@ -67,6 +67,13 @@ This repo aims for collecting awesome Keras resources togather.
 
 ![](https://tensorflow.rstudio.com/tfestimators/articles/images/tensorflow-architecture.png)
 
+### Model Explaination
+
++ [xgb2sql: Convert trained XGBoost model object in R to SQL script](https://github.com/chengjunhou/xgb2sql)
++ [tidypredict: Run predictions inside the database](https://github.com/tidymodels/tidypredict)
++ [modeldb: Run models inside a database using R](https://github.com/tidymodels/modeldb)
++ [lime: Local Interpretable Model-Agnostic Explanations (R port of original Python package)](https://github.com/thomasp85/lime)
+
 ## Applications
 
 ### Remote Sensing
